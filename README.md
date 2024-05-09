@@ -3,7 +3,7 @@
 
 ## My Stack:
 
-<img src="https://skillicons.dev/icons?i=html,css,java,mysql,js,ts,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,java,mysql,js,vscode,git,github&theme=dark" />
 
 ## About me:
 
