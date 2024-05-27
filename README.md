@@ -1,10 +1,5 @@
 # Hi there 👋
 
-
-## My Stack:
-
-<img src="https://skillicons.dev/icons?i=html,css,java,mysql,js,vscode,git,github&theme=dark" />
-
 ## About me:
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Eduardo Reis and I am a software Developer. <br />
@@ -16,7 +11,12 @@
 
 <br />
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+## My Stack:
+<img src="https://skillicons.dev/icons?i=html,css,java,mysql,js,vscode,git,github&theme=dark" />
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ereism1&layout=compact&bg_color=fff&border_color=30A3DC&title_color=E94D5F&text_color=000)
+
 
 ## Contact me:
 
